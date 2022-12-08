@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/iZ+hkzRUlhmkN9V8YxZIsVN1uCXcl1dmJVeQOWzFZFqKfAAtWe0hpuGBCs3AADLa23ZetslKQuvbuu92Dcdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kamran\\Desktop\\Thread\\Thread\\Thread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kamran\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
